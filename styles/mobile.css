@@ -17,5 +17,13 @@
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(15rem,1fr));
     gap: 1rem;
-}
+    }
+
+    #login-form {
+        width: 80%;
+    }
+
+    #cart_items-container {
+        width: 90%;
+    }
 }
